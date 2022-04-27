@@ -7,11 +7,11 @@
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-- [Author](#author)
+  - [Author](#author)
 
 ## Overview
 
-In this challange, i had to build a Sunnyside agency landing page using HTML, CSS and Javascript.
+In this challange, i had to build a landing page using HTML, CSS and Javascript.
 
 ### The challenge
 
@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/lucasfs022/FAQ-Accordion)
-- Live Site URL: [GitHub live site](https://lucasfs022.github.io/FAQ-Accordion/)
+- Solution URL: [GitHub Repo](https://github.com/lucasfs022/Sunnyside-Landing-Page)
+- Live Site URL: [GitHub live site](https://lucasfs022.github.io/Sunnyside-Landing-Page/)
 
 ### Built with
 
