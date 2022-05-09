@@ -7,4 +7,7 @@ function menuShow () {
         menuMobile.classList.add('open')
         // document.querySelector('.icon').src = "./Resources/Icons/ham-menu-close.svg";
     }
-}
+};
+
+let imgIcon = document.getElementById('icon');
+imgIcon.onclick = menuShow;
